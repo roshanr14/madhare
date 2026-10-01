@@ -1,0 +1,17 @@
+{
+  "short_name": "சகி (Sakhi)",
+  "name": "Sakhi - பெண்களுக்கான எளிய அரசு சேவை வழிகாட்டி",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FDFBF7",
+  "theme_color": "#D9532F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/"
+}
